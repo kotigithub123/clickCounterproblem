@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.button {
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
